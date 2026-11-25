@@ -2,21 +2,21 @@
 
 📌 Project Overview
 
-This project is an interactive Sales Dashboard developed using Microsoft Power BI to analyze sales performance, profit, quantity, orders, regional performance, and customer segments.
-The dashboard provides a clear overview of business performance through interactive charts, filters, and visualizations, helping users explore sales data and gain meaningful insights.
+    This project is an interactive Sales Dashboard developed using Microsoft Power BI to analyze sales performance, profit,       quantity, orders, regional performance, and customer segments.
+    The dashboard provides a clear overview of business performance through interactive charts, filters, and visualizations,      helping users explore sales data and gain meaningful insights.
 
 🎯 Project Objectives
 
-  Analyze sales performance across different regions.
+    Analyze sales performance across different regions.
 
-  Identify the top 15 states based on profit.
+    Identify the top 15 states based on profit.
 
-  Analyze profit across different payment modes.
+    Analyze profit across different payment modes.
 
-  Understand customer segment performance.
+    Understand customer segment performance.
 
-  Analyze quantity sold across regions.
-  Visualize monthly sales trends.
+    Analyze quantity sold across regions.
+    Visualize monthly sales trends.
 
 📊 Dashboard Features
 
@@ -58,13 +58,13 @@ The dashboard provides a clear overview of business performance through interact
 
 🛠️ Tools & Technologies
 
-   Microsoft Power BI
+      Microsoft Power BI
 
-   Data Visualization
+      Data Visualization
 
 Data Analysis
 
-  Interactive Dashboard
+      Interactive Dashboard
 
 📷 Dashboard Preview
 
@@ -72,21 +72,21 @@ Data Analysis
 
 📈 Key Insights
 
-   California generates the highest profit among the displayed states.
+     California generates the highest profit among the displayed states.
 
-   The dashboard helps compare sales performance across four regions.
+     The dashboard helps compare sales performance across four regions.
 
-   Profit can be analyzed across different payment modes and customer segments.
+     Profit can be analyzed across different payment modes and customer segments.
 
-   Monthly sales trends can be compared across regions.
+     Monthly sales trends can be compared across regions.
 
-   Interactive region filtering allows users to explore specific regional performance.
+     Interactive region filtering allows users to explore specific regional performance.
 
 📁 Project Files
 
-   Sales Dashboard.pbix – Power BI dashboard file.
+      Sales Dashboard.pbix – Power BI dashboard file.
 
-   Sales Dashboard.png – Dashboard screenshot.
+      Sales Dashboard.png – Dashboard screenshot.
 
 👨‍💻 About This Project
 
